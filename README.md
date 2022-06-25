@@ -1,5 +1,5 @@
 # ButtonsGenerate
  Basic buttons generate C#
- 
- ![image](https://user-images.githubusercontent.com/87603992/175773536-d7dc8af9-900c-4079-bba6-d5df6f806303.png)
 
+It is for creating basic chess table using C#. (Windows Forms App .NET Framework)
+![image](https://user-images.githubusercontent.com/87603992/175773560-3c833b50-8702-4052-9faa-8c302bd2df27.png)
